@@ -1,2 +1,2 @@
 # Untitled-RTS-Game
-High-school computer science class project, a simple real-time strategy game built using Java with no external libraries...
+High-school computer science class project, a very simple real-time strategy game.
